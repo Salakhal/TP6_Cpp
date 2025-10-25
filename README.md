@@ -20,6 +20,8 @@ Age : 21
 Niveau : Licence 3
 
 ```
+<img width="833" height="148" alt="image" src="https://github.com/user-attachments/assets/c52a836a-f937-4d06-a3d7-92a13d4abf4e" />
+
 ---
 
 ## Exercice 2 – Compte bancaire
@@ -45,6 +47,9 @@ Solde insuffisant pour retirer 2000
 Intérêt calculé (5%) : 65
 
 ```
+
+<img width="831" height="198" alt="image" src="https://github.com/user-attachments/assets/f1d986f0-10f9-463e-89db-6f41698865b0" />
+
 ---
 
 ## Exercice 3 – Hiérarchie de produits
@@ -73,6 +78,7 @@ Produit Alimentaire : Lait, Prix : 2.5€, Date d'expiration : 2025-12-31
 Produit Electronique : Smartphone, Prix : 450€, Garantie : 24 mois
 
 ```
+<img width="1147" height="244" alt="image" src="https://github.com/user-attachments/assets/1ff330dc-daa2-4513-9ec9-0405191e78f9" />
 
 ---
 
@@ -116,4 +122,6 @@ Destruction du permanent Charlie
 Destruction de l'employé Charlie
 
 ```
+
+<img width="844" height="580" alt="image" src="https://github.com/user-attachments/assets/8568983f-d2f7-4a5a-9d59-1fe6345b827c" />
 
